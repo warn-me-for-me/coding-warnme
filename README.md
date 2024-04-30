@@ -29,7 +29,7 @@ This Jupyter Notebook analyzes the coded documents by looking at a case study of
 
 ## Dependencies
 
-```pandas```,```numpy```,```sklearn```,```itertools```,```pathlib```
+```pandas```,```numpy```,```itertools```,```pathlib```,```sys```
 
 ## References
 
