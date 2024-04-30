@@ -16,7 +16,7 @@ This Jupyter Notebook is designed to perform interannotator agreement analysis o
 4. Calculate Fleiss' kappa using the `calculate_fleiss_kappa` function.
 5. Select the highest agreement codes using the `select_highest_agreement_code` function.
 
-# Coded Document Analysis (analysis.ipynb)
+# Coded WarnMe Analysis (analysis.ipynb)
 This Jupyter Notebook analyzes the coded documents by looking at a case study of a particular regex phrase as well as some basic quantitative frequency analysis. It relies on the CSV output of ```IAA.ipynb```.
 
 ## Features
