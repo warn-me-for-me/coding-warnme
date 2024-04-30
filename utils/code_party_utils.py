@@ -1,9 +1,7 @@
 import pandas as pd
 import numpy as np
-import math
 from sklearn.metrics import cohen_kappa_score
 import itertools
-from pathlib import Path
 
 def calculate_fleiss_kappa(df, columns):
     """
