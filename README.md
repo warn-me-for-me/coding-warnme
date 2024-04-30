@@ -20,16 +20,19 @@ This Jupyter Notebook is designed to perform interannotator agreement analysis o
 This Jupyter Notebook analyzes the coded documents by looking at a case study of a particular regex phrase as well as some basic quantitative frequency analysis. It relies on the CSV output of ```IAA.ipynb```.
 
 ## Features
-- Complete soon. 
+- Group and count frequencies of code categories as well as individual codes.
+- Visualize using scatter and bar charts, including some with hover text and adjustable y-axis. 
 
 ## Usage 
 1. Import the necessary Python libraries and utility functions.
 2. Load the dataset into a Pandas DataFrame.
-3. Complete soon. 
+3. Perform frequency analysis for each code category.
+4. Visualize location granularity using original, daily and weekly frequency counts.
+5. Visualize case study of one specific frequently-occuring code. 
 
 ## Dependencies
 
-```pandas```,```matplotlib```,```numpy```,```itertools```,```pathlib```,```sys```
+```itertools```,```matplotlib```,```numpy```,```pandas```,```pathlib```,```plotly```,```sys```
 
 ## References
 
